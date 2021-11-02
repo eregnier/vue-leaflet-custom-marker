@@ -11,7 +11,7 @@ I made this component for leaflet because I made the one for [google map](https:
 
 [Demo](https://TODO/)
 
-You might look at this [demo code repository](https://github.com/eregnier/vue-leaflet-custom-marker-demo) for features usage and complete exemple around this plugin.
+You might look at this [demo code repository](https://vue-leaflet-custom-marker-demo.pages.dev) for features usage and complete exemple around this plugin.
 
 ## Features
 
