@@ -1,1 +1,1 @@
-require("vue-leaflet-custom-marker.vue");
+require("./vue-leaflet-custom-marker.vue");

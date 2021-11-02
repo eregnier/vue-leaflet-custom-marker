@@ -1,8 +1,8 @@
 {
   "name": "vue-leaflet-custom-marker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vue leaflet map custom marker component allowing display custom html content on leaflet maps",
-  "main": "index.js",
+  "main": "vue-leaflet-custom-marker.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,6 +30,5 @@
     "vue": "^2.x",
     "leaflet": "^1.x",
     "vue2-leaflet": "^2.x"
-
   }
 }
