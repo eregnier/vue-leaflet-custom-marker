@@ -6,7 +6,7 @@
 ](https://www.npmjs.com/package/vue-leaflet-custom-marker)
 ![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
 
-ℹ️ [WIP] I started working on this package around 2021-11, There are some missing features at the moment that are mostly (and untested): 
+ℹ️ [WIP] I started working on this package around 2021-11, but current features are usable. There are some missing features at the moment that are mostly (and untested): 
  * update marker position on coordonate update. 
  * I also wand to add support for zindex (item depth over map layout)
  * maybe I'll add custering in the future if leaflet supports it.
