@@ -1,0 +1,1 @@
+require("vue-leaflet-custom-marker.vue");

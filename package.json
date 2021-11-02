@@ -1,0 +1,35 @@
+{
+  "name": "vue-leaflet-custom-marker",
+  "version": "0.0.1",
+  "description": "vue leaflet map custom marker component allowing display custom html content on leaflet maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eregnier/vue-leaflet-custom-marker.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "leaflet",
+    "open street map",
+    "osm",
+    "map",
+    "marker",
+    "custom"
+  ],
+  "author": "Eric Régnier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eregnier/vue-leaflet-custom-marker/issues"
+  },
+  "homepage": "https://github.com/eregnier/vue-leaflet-custom-marker#readme",
+  "dependencies": {
+    "vue": "^2.x",
+    "leaflet": "^1.x",
+    "vue2-leaflet": "^2.x"
+
+  }
+}
