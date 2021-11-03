@@ -1,4 +1,4 @@
-# vue2-gmap-custom-marker
+# vue leaflet custom marker
 
 [
 ![npm](https://img.shields.io/npm/v/vue-leaflet-custom-marker.svg)
