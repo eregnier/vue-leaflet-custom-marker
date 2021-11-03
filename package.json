@@ -1,6 +1,6 @@
 {
   "name": "vue-leaflet-custom-marker",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "vue leaflet map custom marker component allowing display custom html content on leaflet maps",
   "main": "vue-leaflet-custom-marker.vue",
   "scripts": {
@@ -30,5 +30,9 @@
     "vue": "^2.x",
     "leaflet": "^1.x",
     "vue2-leaflet": "^2.x"
+  },
+  "devDependencies": {
+    "eslint": "^8.1.0",
+    "eslint-plugin-vue": "^8.0.3"
   }
 }
