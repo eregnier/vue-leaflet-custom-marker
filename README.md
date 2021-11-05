@@ -65,6 +65,7 @@ Use the custom marker inside the map component. Add HTML or other Vue components
   <l-tile-layer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="http://osm.org/copyright"></l-tile-layer>
   <custom-marker
     :marker="marker"
+    @click.native="someFunction"
   >
     <div
       style="width: 50px; height: 50px; border: 1px solid blue"
@@ -95,7 +96,7 @@ export default = {
 }
 </script>
 ```
-
+ℹ️ Use the @click event with the .native modifier to bind a function to the clicking of the custom marker.
 
 Specify the marker alignment with the `alignment` property. It accepts 13 values: `top`, `bottom`, `left`, `right`, `center`, `topleft`, `topright`, `bottomleft`, `bottomright`. Defines the alignment of the marker relative to the lat/lng specified, e.g. `bottomright` - the marker will be below and on the right of the location.
 
