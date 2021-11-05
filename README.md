@@ -31,9 +31,7 @@ You might look at this [demo code repository](https://github.com/eregnier/vue-le
 
 ## Example
 
-TODO
-
-<!-- ![custom markers on vue leaflet map](sample.png) -->
+![custom markers on vue leaflet map](sample.png)
 
 ## Installation
 
