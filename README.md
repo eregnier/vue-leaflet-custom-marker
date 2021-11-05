@@ -13,7 +13,7 @@
 This component allows you to display custom HTML content on the map using Overlay.
 I made this component for leaflet because I made the one for [google map](https://github.com/eregnier/vue2-gmap-custom-marker) and it was quite easy for me to adapt and do this one then.
 
-[Demo](https://TODO/)
+[Demo](https://vue-leaflet-custom-marker-demo.pages.dev/)
 
 You might look at this [demo code repository](https://vue-leaflet-custom-marker-demo.pages.dev) for features usage and complete exemple around this plugin.
 
