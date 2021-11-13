@@ -6,10 +6,6 @@
 ](https://www.npmjs.com/package/vue-leaflet-custom-marker)
 ![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)
 
-ℹ️ [WIP] I started working on this package around 2021-11, but current features are usable. There are some missing features at the moment that are mostly (and untested): 
- * I also want to add support for zindex (item depth over map layout)
- * maybe I'll add custering in the future if leaflet supports it.
-
 This component allows you to display custom HTML content on the map using Overlay.
 I made this component for leaflet because I made the one for [google map](https://github.com/eregnier/vue2-gmap-custom-marker) and it was quite easy for me to adapt and do this one then.
 
