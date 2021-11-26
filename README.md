@@ -27,7 +27,7 @@ You might look at this [demo code repository](https://github.com/eregnier/vue-le
 
 ## Example
 
-![custom markers on vue leaflet map](sample.png)
+https://user-images.githubusercontent.com/5399780/143586275-d25dfe7a-732b-4d09-b47f-b1a359574828.mp4
 
 ## Installation
 
